@@ -65,6 +65,7 @@ A classe `OptionsMonitorBackgroundService` monitora mudanças no `appsettings.js
 - Options Pattern
 - BackgroundService
 - File Watcher (reloadOnChange)
+- Azure App Configuration
 
 ## 📖 Quando Usar Cada Tipo
 
