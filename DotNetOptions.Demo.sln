@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11205.157 d18.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{528D187D-E96A-486B-A500-28222C00297F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetOptions.Demo.Api", "src\DotNetOptions.Demo.Api\DotNetOptions.Demo.Api.csproj", "{32D540AC-7F1C-4A09-B06A-8B044990AC81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D540AC-7F1C-4A09-B06A-8B044990AC81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D540AC-7F1C-4A09-B06A-8B044990AC81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D540AC-7F1C-4A09-B06A-8B044990AC81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D540AC-7F1C-4A09-B06A-8B044990AC81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{32D540AC-7F1C-4A09-B06A-8B044990AC81} = {528D187D-E96A-486B-A500-28222C00297F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB874F31-5913-4FA0-AC8C-3B14FA0B3B08}
+	EndGlobalSection
+EndGlobal
